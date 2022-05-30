@@ -41,6 +41,6 @@ The notebook is structured in six sections, if you're interested in the whole an
 
 
 
-[^1]: Yes, that's a [Macklemore lyrics' reference](https://www.youtube.com/watch?v=hlVBg7_08n0)
+[^1]: Yes, that's [Macklemore](https://www.youtube.com/watch?v=hlVBg7_08n0)
 
 
