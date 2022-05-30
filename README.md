@@ -36,7 +36,7 @@ The notebook is structured in six sections, if you're interested in the whole an
 - **Time Analysis**
 
   * How has happiness level changed throughout the years? What about freedom?
-  * Which countrys changed the most over the years in terms of happiness level? Which ones in terms of human freedom?
+  * Which countries changed the most over the years in terms of happiness level? Which ones in terms of human freedom?
   * What is the regional trend for human freedom, economic freedom, personal freedom and personal freedom for women? 
 
 
