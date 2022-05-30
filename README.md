@@ -1,8 +1,9 @@
 # World Happiness Report Project :smile:
 
-**IMPORTANT** : The notebook contains plotly graphs which are not loaded in GitHub, view the full EDA here $\rightarrow$ [Pretending I am a cool button](https://github.com/FabioF98/World-Happiness-Report#user-content-fn-1-8392d015b54c4dd1e78cd670ac447a42)
+**IMPORTANT** : The notebook contains plotly graphs which are not loaded in GitHub, view the full EDA here $\rightarrow$ 
+[Complete Notebook](https://github.com/FabioF98/World-Happiness-Report#user-content-fn-1-8392d015b54c4dd1e78cd670ac447a42)
 
-![I know you're busy but don't forget to smile](https://static.onecms.io/wp-content/uploads/sites/13/2015/04/05/featured.jpg)
+![](https://static.onecms.io/wp-content/uploads/sites/13/2015/04/05/featured.jpg)
 
 ## Introduction
 
