@@ -1,6 +1,6 @@
 # World Happiness Report Project
 
-![](/World%20Happiness%20Report%20Images/happiness.jpeg)
+![](/World%20Happiness%20Report%20Images/giphy.gif)
 
 ## Something New
 
