@@ -2,7 +2,7 @@
 
 **IMPORTANT** : The notebook contains plotly graphs which are not loaded in GitHub, view the **[Complete version](https://github.com/FabioF98/World-Happiness-Report/blob/main/README.md)**
 
-![](https://static.onecms.io/wp-content/uploads/sites/13/2015/04/05/featured.jpg)
+![](./happyhomer.jpg)
 
 ## Introduction
 
