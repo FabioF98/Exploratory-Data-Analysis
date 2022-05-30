@@ -1,6 +1,6 @@
 # World Happiness Report Project :smile:
 
-**IMPORTANT** : The notebook contains plotly graphs which are not loaded in GitHub, view the full EDA here $\curvearrowright$
+**IMPORTANT** : The notebook contains plotly graphs which are not loaded in GitHub, view the full EDA here $\hookleftarrow$
 <a align="right">[Complete Notebook](https://github.com/FabioF98/World-Happiness-Report#user-content-fn-1-8392d015b54c4dd1e78cd670ac447a42)</a>
 
 ![](https://static.onecms.io/wp-content/uploads/sites/13/2015/04/05/featured.jpg)
