@@ -1,4 +1,4 @@
-<font size = 15>World Happiness Report Project</font>
+# World Happiness Report Project
 
 ![](/World%20Happiness%20Report%20Images/giphy.gif)
 
@@ -6,3 +6,11 @@
 
 Let's see if this works
 
+
+
+
+
+Citing Studies on happiness[^1]
+
+
+[^1] : Reference to study
