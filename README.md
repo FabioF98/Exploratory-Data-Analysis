@@ -1,7 +1,8 @@
 # World Happiness Report Project
 
-Trying to use Github! 
+![](/media/fafo98/03ED-AD8C/Images/World Happiness Report/happiness.jpeg)
 
 ## Something New
 
 Let's see if this works
+
