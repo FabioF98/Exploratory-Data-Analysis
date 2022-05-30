@@ -1,4 +1,4 @@
-# World Happiness Report Project
+<font size = 6>World Happiness Report Project</font>
 
 ![](/World%20Happiness%20Report%20Images/giphy.gif)
 
