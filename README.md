@@ -2,7 +2,9 @@
 
 ![](/World%20Happiness%20Report%20Images/giphy.gif)
 
-## Something New
+## Introduction
+
+### What Happens
 
 Let's see if this works
 
