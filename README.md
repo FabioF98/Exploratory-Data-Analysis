@@ -13,4 +13,4 @@ Let's see if this works
 Citing Studies on happiness[^1]
 
 
-[^1] : Reference to study
+[^1]: Reference to study
