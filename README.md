@@ -15,7 +15,9 @@ The analysis is already structured as a notebook, which contains a formal presen
 I was 14 years old when I read the term "positive mindset" for the first time, I've always been fascinated by the power of the mind and the I remember being absolutely stunned when I first read about the huge impact we can make on our lives by rewiring our brain to take the best out of every situation.
 From that moment on I've been trying to apply what I was reading, which hasn't been an easy task at all, but a very rewarding I must say. I'm now 24 and all of these years focusing on the positives in life have helped me immeasurably, especially during dark times. 
 
-Given this premises, the **World Happiness Report** was love at first sight for me, and what was even more interesting about this project was the possibility to combine more datasets to obtain a clear but at the same time complex view of several factors interacting. I choose the **Human Freedom Index** as the second main dataset due to my firm belonging in "No freedom til we're all equal" [^1]
+Given this premises, the **World Happiness Report** was love at first sight for me, and what was even more interesting about this project was the possibility to combine more datasets to obtain a clear but at the same time complex view of several factors interacting. I choose the **Human Freedom Index** as the second main dataset due to my firm belonging in "No freedom til we're all equal" [^1] Studying different freedom indexes helped me understand how the world is moving, and what encouraged me even more to use this dataset was the presence of a specific freedom index for women, which compared for each country the amount of freedom women have with respect to to that of men. 
+
+
 
 
 
@@ -23,6 +25,6 @@ Given this premises, the **World Happiness Report** was love at first sight for 
 Citing Studies on happiness[^2]
 
 
-[^1]: Yes, that's a Macklemore lyrics' reference, when you're done reading you might as well go listen to that [amazing song](https://www.youtube.com/watch?v=hlVBg7_08n0)
+[^1]: Yes, that's a [Macklemore lyrics' reference](https://www.youtube.com/watch?v=hlVBg7_08n0)
 
 [^2]: Reference to study
