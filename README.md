@@ -18,13 +18,6 @@ From that moment on I've been trying to apply what I was reading, which hasn't b
 Given this premises, the **World Happiness Report** was love at first sight for me, and what was even more interesting about this project was the possibility to combine more datasets to obtain a clear but at the same time complex view of several factors interacting. I choose the **Human Freedom Index** as the second main dataset due to my firm belonging in "No freedom til we're all equal" [^1] Studying different freedom indexes helped me understand how the world is moving, and what encouraged me even more to use this dataset was the presence of a specific freedom index for women, which compared for each country the amount of freedom women have with respect to to that of men. 
 
 
-
-
-
-
-Citing Studies on happiness[^2]
-
-
 [^1]: Yes, that's a [Macklemore lyrics' reference](https://www.youtube.com/watch?v=hlVBg7_08n0)
 
-[^2]: Reference to study
+
