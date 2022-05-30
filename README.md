@@ -2,20 +2,27 @@
 
 **IMPORTANT** : The notebook contains plotly graphs which are not loaded in GitHub, view the full EDA here $\rightarrow$ [Pretending I am a cool button](https://github.com/FabioF98/World-Happiness-Report#user-content-fn-1-8392d015b54c4dd1e78cd670ac447a42)
 
-![I know you're busy but don't forget to smile](/World%20Happiness%20Report%20Images/spreadhappiness.gif)
+![I know you're busy but don't forget to smile](https://static.onecms.io/wp-content/uploads/sites/13/2015/04/05/featured.jpg)
 
 ## Introduction
 
+This exploratory data analysis was created as a capstone project for the Data Analysis and Visualization section of the Data Science course of **Start2Impact**, an italian startup (*B Corp certified*) which has been selected among the best ones in Europe in terms of education and social impact by the European Social Innovation Competition.
 
-### What Happens
+The analysis is already structured as a notebook, which contains a formal presentation of the themes, the datasets and every information needed in order to understand what was done during the six different phases of the analysis. This section, on the other hand, will be an informal and brief explanation of why I chose this theme.
 
-Let's see if this works
+## Reasons behind my choice
+
+I was 14 years old when I read the term "positive mindset" for the first time, I've always been fascinated by the power of the mind and the I remember being absolutely stunned when I first read about the huge impact we can make on our lives by rewiring our brain to take the best out of every situation.
+From that moment on I've been trying to apply what I was reading, which hasn't been an easy task at all, but a very rewarding I must say. I'm now 24 and all of these years focusing on the positives in life have helped me immeasurably, especially during dark times. 
+
+Given this premises, the **World Happiness Report** was love at first sight for me, and what was even more interesting about this project was the possibility to combine more datasets to obtain a clear but at the same time complex view of several factors interacting. I choose the **Human Freedom Index** as the second main dataset due to my firm belonging in "No freedom til we're all equal" [^1]
 
 
 
 
+Citing Studies on happiness[^2]
 
-Citing Studies on happiness[^1]
 
+[^1]: Yes, that's a Macklemore lyrics' reference, when you're done reading you might as well go listen to that [amazing song](https://www.youtube.com/watch?v=hlVBg7_08n0)
 
-[^1]: Reference to study
+[^2]: Reference to study
