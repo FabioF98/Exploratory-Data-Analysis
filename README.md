@@ -1,6 +1,6 @@
 # World Happiness Report Project :smile:
 
-**IMPORTANT** : The notebook contains plotly graphs which are not loaded in GitHub, please refer to the **[Complete version]([https://github.com/FabioF98/World-Happiness-Report/blob/main/README.md](https://www.kaggle.com/code/fabio98/exploratory-data-analysis-python?scriptVersionId=97233417))**.
+**IMPORTANT** : The notebook contains plotly graphs which are not loaded in GitHub, please refer to the **[Complete version](https://www.kaggle.com/code/fabio98/exploratory-data-analysis-python?scriptVersionId=97233417)**.
 
 > Note that the GitHub version is very limited as hyperlinks and plotly visualizations don't work. Please refer to the link above for the complete version.
 > 
