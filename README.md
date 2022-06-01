@@ -1,6 +1,6 @@
 # World Happiness Report Project :smile:
 
-**IMPORTANT** : The notebook contains plotly graphs which are not loaded in GitHub, view the **[Complete version](https://github.com/FabioF98/World-Happiness-Report/blob/main/README.md)**
+**IMPORTANT** : The notebook contains plotly graphs which are not loaded in GitHub, please refer to the **[Complete version](https://github.com/FabioF98/World-Happiness-Report/blob/main/README.md)**.
 
 > Note that the GitHub version is very limited as hyperlinks and plotly visualizations don't work. Please refer to the link above for the complete version.
 > 
